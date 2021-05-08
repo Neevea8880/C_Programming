@@ -15,6 +15,6 @@ Objective: Learn the Pointers concept in C
 Objective: Learn the file concept in C
 
 11. Create a file and perform the following
-    1) Write data to the file
-    2)Read the data in a given file & display the file content on console append new data and display on console
-12.Open a text input file and count number of characters, words and lines in it; and store the results in an output file.
+    i) Write data to the file
+    ii)Read the data in a given file & display the file content on console append new data and display on console
+12. Open a text input file and count number of characters, words and lines in it; and store the results in an output file.
