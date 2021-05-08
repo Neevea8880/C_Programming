@@ -1,10 +1,8 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 int n,i,sum=0;
-clrscr();
-printf("enter the no:of numbers:");
+printf("enter the limit");
 scanf("%d",&n);
 for(i=2;i<=n;i++)
     {
@@ -12,5 +10,4 @@ for(i=2;i<=n;i++)
       sum+=i;
     }
 printf("sum=%d",sum);
-getch();
 }
