@@ -1,10 +1,8 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 int n,totalnum,i,small;
-clrscr();
-printf("enter total no:of numbers:");
+printf("how many numbers do you want to enter");
 scanf("%d",&totalnum);
 printf("enter first no:");
 scanf("%d",&n);
@@ -17,5 +15,4 @@ for(i=1;i<totalnum;i++)
   small=n;
   }
 printf("small is %d",small);
-getch();
 }
